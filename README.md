@@ -4,10 +4,13 @@ This ~2hr workshop is designed for students with no programming experience in 7-
 #### Virtual Note
 When facilitating the workshop virtually, replace the HTML & CSS Code-Along with the HTML & CSS Icebreaker. Additionally, utilize the virtual version of the JavaScript Concepts Presentation and Kahoot. Students should use [repl.it](https://repl.it) instead of CodePen for a virtual workshop.
 
-## HTML & CSS Code-Along
+## HTML & CSS Introduction
+Introduce HTML & CSS, either through a code-along or an icebreaker.
+
+### Code-Along
 The [HTML & CSS Code-Along](HtmlCssCodeAlong.md) walks through some basic HTML and CSS concepts. The instructor should type the code on their computer, and have the students type along on their own computers. The instructor should ask students for suggestions about what to type.
 
-### HTML & CSS Icebreaker
+### Icebreaker
 Introduce the [HTML & CSS Icebreaker](HtmlCssIcebreaker.md) instructions for a virtual icebreaker that uses HTML and CSS. Show the students how Repl works, and then allow them to complete the activity. They should fork a starter webpage, update it, and then share the link with the group. Once all the students have shared links to their pages, an instructor can go through all of them briefly.
 
 ## JavaScript Concepts Presentation
@@ -20,7 +23,7 @@ After the HTML & CSS Code-Along, introduce JavaScript. The [PowerPoint presentat
 There are notes on the slides that help guide the presentation.
 
 ### Virtual Presentation
-Present the he abbreviated [virtual presentation](JavaScriptConceptsVirtual.pptx) when facilitating the workshop virtually. It does not contain the self-portrait activity.
+Present the abbreviated [virtual presentation](JavaScriptConceptsVirtual.pptx) when facilitating the workshop virtually. It does not contain the self-portrait activity.
 
 ### Self-portrait Activity
 The JavaScript Concepts presentation includes instructions for an unplugged activity. It starts by introducing **algorithms** and **pseudocode**. It also introduces some JavaScript syntax, with a mini-quiz to gauge student understanding. The students should learn how to write code to call JavaScript functions. 

@@ -4,7 +4,7 @@ Update your code to complete the following challenges!
 #### Reference
 - <a href="JavaScriptConcepts.pptx" target="_blank">JavaScript Concepts PowerPoint presentation</a>
 - [CodePen](https://codepen.io/jmaxwell/pen/BaBVVrO)
-- [Repl](https://repl.it/@JosephMaxwell/WebpageChallenges#script.js)
+- [Repl](https://repl.it/@JosephMaxwell/WebpageChallenges)
 
 ## HTML Challenge: Add an Image
 1. In the HTML, add an `h2` saying "A Cool Image"
@@ -31,7 +31,7 @@ Update your code to complete the following challenges!
 1. In the HTML, paste the video code!
     - Use `Ctrl`+`v` or right-click and select Paste
 
-It should look something like this:
+The code should look something like this:
 ```html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7zkX6kfnWbk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```

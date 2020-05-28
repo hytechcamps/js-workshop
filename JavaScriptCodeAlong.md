@@ -90,5 +90,5 @@ alert("Final score: " + finalScore + "%");
 ```
 
 ## Final Webpage
-[CodePen](https://codepen.io/jmaxwell/pen/BaBVVrO)
-[Repl](https://repl.it/@JosephMaxwell/WebpageChallenges#script.js)
+- [CodePen](https://codepen.io/jmaxwell/pen/BaBVVrO)
+- [Repl](https://repl.it/@JosephMaxwell/WebpageChallenges#script.js)
