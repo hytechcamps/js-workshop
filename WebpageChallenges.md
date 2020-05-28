@@ -1,12 +1,13 @@
 # Webpage Challenges
-Update your code in CodePen to complete the following challenges!
+Update your code to complete the following challenges!
 
 #### Reference
 - <a href="JavaScriptConcepts.pptx" target="_blank">JavaScript Concepts PowerPoint presentation</a>
 - [CodePen](https://codepen.io/jmaxwell/pen/BaBVVrO)
+- [Repl](https://repl.it/@JosephMaxwell/WebpageChallenges#script.js)
 
 ## HTML Challenge: Add an Image
-1. In the HTML section, add an `h2` saying "A Cool Image"
+1. In the HTML, add an `h2` saying "A Cool Image"
 1. Beneath the `h2`, add an `img` element to the page
     - This will not do anything yet...
 1. Search for an image of a cat using Google Images in Chrome
@@ -16,7 +17,7 @@ Update your code in CodePen to complete the following challenges!
 
 ```html
 <h2>A Cool Image</h2>
-<img src="your_url_here">
+<img src="your_url_here" />
 ```
 
 ## HTML Challenge: Add a Video
@@ -27,7 +28,7 @@ Update your code in CodePen to complete the following challenges!
     ![](https://i.imgur.com/OPzkSc2.png)  
 1. Click "COPY"  
     ![](https://i.imgur.com/barvOys.png)
-1. In the HTML section of the CodePen, paste the video code!
+1. In the HTML, paste the video code!
     - Use `Ctrl`+`v` or right-click and select Paste
 
 It should look something like this:
@@ -36,7 +37,7 @@ It should look something like this:
 ```
 
 ## CSS Challenge: Header Text Shadow
-1. In the CSS section, under the `}` from the "body" ruleset, make some new lines
+1. In the CSS, under the `}` from the "body" ruleset, make some new lines
 1. Create a new ruleset for "h1" by adding `h1` and `{` and `}`
     - This will mean that all styles apply to each `h1` HTML element
     - Note that when adding the opening bracket (`{`), CodePen adds the closing bracket (`}`) automatically
@@ -52,7 +53,7 @@ h1 {
 ```
 
 ## CSS Challenge: Button Color
-1. At the bottom of the CSS section, make some new lines
+1. At the bottom of the CSS, make some new lines
 1. Create a new ruleset for "button" by adding `button` `{` and `}`
     - This will mean that all styles apply to each `button` HTML element
 1. Within the brackets, add a new declaration: `background: yellow;`
@@ -73,7 +74,7 @@ Instead of setting one solid background color for the page with `background`, us
 Use the [border](https://developer.mozilla.org/en-US/docs/Web/CSS/border) property to add a border to the `button`.
 
 ## JavaScript Challenge: Add a Question
-1. In the JavaScript section, update the value of the `numberOfQuestions` variable to be `3` instead of `2`
+1. In the JavaScript, update the value of the `numberOfQuestions` variable to be `3` instead of `2`
 1. Underneath the `}` for the second `if` statement, add a new line
 1. Ask the user a third question using `prompt`, and store the user's answer in a variable named `answer3`
     - Ask any appropriate question!

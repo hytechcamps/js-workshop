@@ -1,12 +1,13 @@
 # JavaScript Code-Along
-The next step for the CodePen webpage is to add functionality to the "Quiz Me" button. It should pop up a quiz that allows the user to answer some questions and receive a final score. This is possible with JavaScript!
+The next step for the webpage is to add functionality to the "Quiz Me" button. It should pop up a quiz that allows the user to answer some questions and receive a final score. This is possible with JavaScript!
 
 ## Defining the Function
-1. Expand the **JS** portion of the code in CodePen
+1. Open the `script.js` file in the Repl
 1. Create an empty function definition for the `startQuiz` function
     - This requires the `function` keyword, the function name, parentheses, and curly brackets
 1. In the _body_ of the function (between the curly brackets), add an `alert` statement that welcomes the user
     - If desired, use the Windows emoji keyboard (Windows key + semi-colon key)
+1. Click the "run" button to generate the webpage
 1. On the webpage, click the button to make sure it is hooked up properly!
     - Note that this is possible because of the `onclick` attribute on the HTML button
 
@@ -88,5 +89,6 @@ var finalScore = (points / numberOfQuestions) * 100;
 alert("Final score: " + finalScore + "%");
 ```
 
-## Final CodePen Webpage
-https://codepen.io/jmaxwell/pen/BaBVVrO
+## Final Webpage
+[CodePen](https://codepen.io/jmaxwell/pen/BaBVVrO)
+[Repl](https://repl.it/@JosephMaxwell/WebpageChallenges#script.js)
