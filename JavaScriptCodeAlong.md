@@ -47,12 +47,12 @@ var numberOfQuestions = 2;
 1. Store the user's answer in a variable called `answer1`
 1. Under the `prompt`, create an `if` statement
     - What should happen based on the user's answer? If the user is correct, they should get a point. Otherwise, they should not
-1. Use `if`, parentheses, `===`, and curly brackets to set up the `if`
+1. Use `if`, parentheses, `==`, and curly brackets to set up the `if`
 1. Within the curly brackets, use `++` to increment the value of the `points` variable
 
 ```js
 var answer1 = prompt("What is my name?");
-if (answer1 === "Joseph") {
+if (answer1 == "Joseph") {
     points++;
 }
 ```
@@ -68,7 +68,7 @@ _NOTE: Update the code so it checks for the proper answer!_
 
 ```js
 var answer2 = prompt("Where do I live?");
-if (answer2 === "Lakewood") {
+if (answer2 == "Lakewood") {
     points++;
 }
 ```
