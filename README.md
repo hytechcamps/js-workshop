@@ -4,6 +4,27 @@ This ~2hr workshop is designed for students with no programming experience in 7-
 #### Virtual Note
 When facilitating the workshop virtually, replace the HTML & CSS Code-Along with the HTML & CSS Icebreaker. Additionally, utilize the virtual version of the JavaScript Concepts Presentation and Kahoot. Students should use [repl.it](https://repl.it) instead of CodePen for a virtual workshop.
 
+## Suggested Schedule (Virtual)
+
+| Activity | Time |
+|-|-|
+| HTML & CSS Icebreaker | 25m |
+| JavaScript Concepts Presentation | 10m |
+| JavaScript Code-Along | 30m |
+| Kahoot Quiz | 5m |
+| Challenges | 20m |
+
+## Suggested Schedule
+
+| Activity | Time |
+|-|-|
+| HTML & CSS Code-Along | 20m |
+| JavaScript Concepts Presentation | 20m |
+| JavaScript Code-Along | 20m |
+| Kahoot Quiz | 5m |
+| Break | 10m |
+| Challenges | 1h |
+
 ## HTML & CSS Introduction
 Introduce HTML & CSS, either through a code-along or an icebreaker.
 
@@ -45,24 +66,3 @@ After completing the code-along, the Kahoot will test the students' retention.
 
 ## Webpage Challenges
 The [Webpage Challenges](WebpageChallenges.md) are meant to be completed by students individually. Instructors should assist the students as they work through the challenges. If a student wants to do something different, but still in the realm of JavaScript, they should be encouraged to do so.
-
-## Suggested Schedule (Virtual)
-
-| Activity | Time |
-|-|-|
-| HTML & CSS Icebreaker | 25m |
-| JavaScript Concepts Presentation | 10m |
-| JavaScript Code-Along | 30m |
-| Kahoot Quiz | 5m |
-| Challenges | 20m |
-
-## Suggested Schedule
-
-| Activity | Time |
-|-|-|
-| HTML & CSS Code-Along | 20m |
-| JavaScript Concepts Presentation | 20m |
-| JavaScript Code-Along | 20m |
-| Kahoot Quiz | 5m |
-| Break | 10m |
-| Challenges | 1h |
