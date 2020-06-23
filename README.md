@@ -4,6 +4,9 @@ This ~2hr workshop is designed for students with no programming experience in 7-
 #### Virtual Note
 When facilitating the workshop virtually, replace the HTML & CSS Code-Along with the HTML & CSS Icebreaker. Additionally, utilize the virtual version of the JavaScript Concepts Presentation and Kahoot. Students should use [repl.it](https://repl.it) instead of CodePen for a virtual workshop.
 
+## Student Content
+Student-facing content is available at [hytechcamps.github.io](https://hytechcamps.github.io/js-workshop).
+
 ## Suggested Schedule (Virtual)
 
 | Activity | Time |
