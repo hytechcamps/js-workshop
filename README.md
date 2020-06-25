@@ -7,6 +7,11 @@ When facilitating the workshop virtually, replace the HTML & CSS Code-Along with
 ## Student Content
 Student-facing content is available at [hytechcamps.github.io](https://hytechcamps.github.io/js-workshop).
 
+## Videos
+- [HTML & CSS Icebreaker](https://www.youtube.com/watch?v=9Utzzy0JpYQ&list=PL1P_sExxi-9NeogaTKc9lSzoUkqPuqHOT)
+- [JavaScript Concepts Presentation](https://www.youtube.com/watch?v=08IakBYP2ao&list=PL1P_sExxi-9NeogaTKc9lSzoUkqPuqHOT)
+- [JavaScript Code-Along](https://www.youtube.com/watch?v=45-Ps8yRwVk&list=PL1P_sExxi-9NeogaTKc9lSzoUkqPuqHOT)
+
 ## Suggested Schedule (Virtual)
 
 | Activity | Time |
