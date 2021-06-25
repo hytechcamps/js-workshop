@@ -1,5 +1,5 @@
 # JavaScript Workshop
-Welcome to the JavaScript Workshop!
+Welcome to the JavaScript Workshop! This workshop introduces the JavaScript programming language, along with some of the basics of HTML & CSS.
 
 ## Icebreaker
 - [HTML & CSS Icebreaker](HtmlCssIcebreaker.md)
